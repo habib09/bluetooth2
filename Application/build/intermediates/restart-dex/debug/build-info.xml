@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="16400384234059"
+    token="2490763731966319055"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1610" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="400" />
+    <task
+        name="verifier"
+        duration="15" />
+
+    <artifact
+        location="/home/habib/project/android-BluetoothChat/Application/build/outputs/apk/Application-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="16400384234059"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/habib/project/android-BluetoothChat/Application/build/outputs/apk/Application-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
